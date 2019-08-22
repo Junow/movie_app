@@ -1,7 +1,10 @@
 # Movie App 2019
 
-React JS Fundamentals Course
+#### React JS Fundamentals Course
 
-show list of movie from [yts](https://yts.lt/)
+#### get movie list from [yts](https://yts.lt/)
 
-i followed this course [nomadnoder - React Fundamentals 2019](https://www.youtube.com/watch?v=JtHRa-4MTG4&list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf&index=1)
+
+- I followed this course [nomadnoder - React Fundamentals 2019](https://www.youtube.com/watch?v=JtHRa-4MTG4&list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf&index=1)
+
+- [github page](https://didi0410.github.io/movie_app/)
